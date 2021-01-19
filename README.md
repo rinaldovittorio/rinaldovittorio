@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱  I'm currently learning React and get more experienced in HTML, CSS and JS
+🌱  I'm currently learning React and get more experienced in HTML, CSS and JS </br>
 👯  I’m looking to collaborate on various and interesting projects
 
 
