@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱  I'm currently learning React and get more experienced in HTML, CSS and JS
+👯  I’m looking to collaborate on various and interesting projects
+
+
 ![Vittorio's github stats](https://github-readme-stats.vercel.app/api?username=rinaldovittorio&show_icons=true&theme=radical)
 
-### Here a bit of my tech stack 😊
+Here a bit of my tech stack 😊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinaldovittorio&layout=radical)](https://github.com/anuraghazra/github-readme-stats)
